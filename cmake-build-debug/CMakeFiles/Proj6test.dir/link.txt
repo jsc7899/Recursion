@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Proj6test.dir/main.cpp.o CMakeFiles/Proj6test.dir/Project6.cpp.o  -o Proj6test 
